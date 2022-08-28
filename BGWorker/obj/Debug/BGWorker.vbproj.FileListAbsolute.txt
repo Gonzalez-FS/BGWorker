@@ -1,0 +1,12 @@
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\bin\Debug\BGWorker.exe.config
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\bin\Debug\BGWorker.exe
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\bin\Debug\BGWorker.pdb
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\bin\Debug\BGWorker.xml
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.vbprojAssemblyReference.cache
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.Form1.resources
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.Resources.resources
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.vbproj.GenerateResource.cache
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.vbproj.CoreCompileInputs.cache
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.exe
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.xml
+C:\Users\virgo\Downloads\Desktop\tareas\Obregon\BGWorker\obj\Debug\BGWorker.pdb
